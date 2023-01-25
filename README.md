@@ -2,7 +2,7 @@
 
 # Hello! ✋
 
-My Name is Manuel Ajanel and I'm a Junior Developer. I'm from Guatemala. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+My Name is Manuel Ajanel and I'm a Junior Developer. I'm from Guatemala. You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]
 
 ## Quick overview 🚀
 

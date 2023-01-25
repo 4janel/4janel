@@ -29,4 +29,4 @@ My Name is Manuel Ajanel and I'm a Junior Developer. I'm from Guatemala. You can
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/4janel
-[2]: https://www.linkedin.com/in/4janel/
+[2]: https://www.linkedin.com/in/manuel-ajanel/

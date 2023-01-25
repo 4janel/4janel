@@ -9,7 +9,7 @@ My Name is Manuel Ajanel and I'm a Junior Developer. I'm from Guatemala. You can
 ### 📈 GitHub stats
 
 ![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=4janel&show_icons=true&layout=compact&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4janel&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4janel&langs_count=8&layout=compact&theme=transparent)
 
 
 ## 🔧 Technologies & Tools 

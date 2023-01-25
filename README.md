@@ -2,7 +2,7 @@
 
 # Hello! ✋
 
-My Name is Manuel Ajanel and I'm a Junior Developer. I'm from Guatemala.
+My Name is Manuel Ajanel and I'm a Junior Developer. I'm from Guatemala. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ## Quick overview
 
@@ -20,11 +20,6 @@ My Name is Manuel Ajanel and I'm a Junior Developer. I'm from Guatemala.
 ![os](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 ![jira](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=2bbc8a)
-
-
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 

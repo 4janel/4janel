@@ -4,9 +4,9 @@
 
 My Name is Manuel Ajanel and I'm a Junior Developer. I'm from Guatemala. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
-## Quick overview
+## Quick overview 🚀
 
-### GitHub stats
+### 📈 GitHub stats
 
 ![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=4janel&show_icons=true&layout=compact&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4janel&layout=compact&theme=transparent)
